@@ -1,3 +1,4 @@
+print("compute the roots of the quadratic equation")
 a = int(input("Enter a :))
 b = int(input("Enter b :"))
 c = int(input("Enter c :"))
